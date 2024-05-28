@@ -4,6 +4,7 @@ I'm Natalia Riabova (she / her), a team-oriented Frontend Developer who loves cr
 
 ## 🚀 About Me
 
+- 🌸 **Location**: Tokyo, Japan
 - 💻 **Frontend Developer** with a lot of experience with many front-end libraries
 - 🌟 **But my favorites are**: Typescript, React, Effector, Mantine, React Query
 - 🎨 **Design Enthusiast**: Can work without designer and project will be still look good
